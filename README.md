@@ -1,6 +1,6 @@
-# 🎨 Voilet
+# 🎨 Violet
 
-**Voilet** is a theme for Flow Launcher.
+**Violet** is a theme for Flow Launcher.
 
 ## 🖼️ Theme Dispaly
 
